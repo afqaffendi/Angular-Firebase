@@ -1,27 +1,17 @@
-# Friendlychat
+NAME : AFIQ AFFENDI BIN BAKHTIAR AFFENDI
+STUDENT ID : 2023448758
+GROUP : CDCS2703B1
+LECTURER'S NAME : MUUHAMMAD ATIF RAMLAN
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.0.4.
+PROJECT BACKGROUND : 
+This project is about how to build a web app using Angular-Firebase. AngularFire is the officially supported AngularJS binding for Firebase. Firebase is a backend service that provides data storage, file storage, authentication, and static website hosting for your Angular app. AngularFire is a complement to the core Firebase client.
 
-## Development server
+DISCUSSION : 
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+This project was centered on developing a web application using Angular and Firebase, tools that ease web development. Some of the common issues that developers encounter include creating a backend system, databases, and hosting of the application. Angular and Firebase are compatible to address these problems, which makes the development more efficient.
 
-## Code scaffolding
+Angular is perfect for building web applications with components and easy to navigate between them. Firebase does this by offering pre-built backend functionalities such as real-time database, user authentication, hosting, and storage. Combined, they enable developers to work on features rather than on servers and server configurations.
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+The purpose of this project was to understand how to develop a web app with Angular and Firebase. It also wanted to address practical issues, including how to address real-time data changes, implement a login system, and support many users.
 
-## Build
-
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
-
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+This project helped me to understand that it is crucial to think through the system configuration and approach to technical problems. It also demonstrated to me that creating a good web app is not a one day affair but rather requires time, patience and hard work. In general, this project was a good opportunity to get acquainted with the modern approach to web development and such tools as Angular and Firebase that help to build applications of high quality.
