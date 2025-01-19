@@ -1,9 +1,13 @@
 NAME : AFIQ AFFENDI BIN BAKHTIAR AFFENDI
+
 STUDENT ID : 2023448758
+
 GROUP : CDCS2703B1
-LECTURER'S NAME : MUUHAMMAD ATIF RAMLAN
+
+LECTURER'S NAME : MUHAMMAD ATIF RAMLAN
 
 PROJECT BACKGROUND : 
+
 This project is about how to build a web app using Angular-Firebase. AngularFire is the officially supported AngularJS binding for Firebase. Firebase is a backend service that provides data storage, file storage, authentication, and static website hosting for your Angular app. AngularFire is a complement to the core Firebase client.
 
 DISCUSSION : 
